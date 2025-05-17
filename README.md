@@ -1,11 +1,14 @@
-# sidecup_family_golf
+
+![golf](https://github.com/user-attachments/assets/37a688b2-78ae-4b18-8149-bcccb0a8062d)
+
 # 🏌️‍♂️ Sidcup Family Golf Website
 
 A sleek, modern website showcasing **Sidcup Family Golf** — a top golf facility in South East London.
 
 ---
 
-## ✨ Features
+## ✨ Features!
+
 - 🎥 Fullscreen video background  
 - 🏞️ Interactive service cards (TopTracer, Adventure Golf, Lessons)  
 - 🎯 Smooth animations with GSAP  
@@ -20,6 +23,7 @@ A sleek, modern website showcasing **Sidcup Family Golf** — a top golf facilit
 - Remix Icon library  
 
 ---
+
 
 ## 🚀 Quick Start
 ```bash
